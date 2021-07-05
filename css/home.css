@@ -20,10 +20,11 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
+    border: 0; 
     margin: auto;
     background-color: #66CCFF;
-    border: 0; 
-    color:#fff;
+    color: #fff;
+    font-size: 30px;
 }
 
 #middle {
