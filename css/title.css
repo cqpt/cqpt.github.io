@@ -1,20 +1,28 @@
-#title_left {
+#left {
     position: absolute;
     top: 10px;
     left: 10px;
     width: 150px;
     height: 30px;
-    background-color: #00BFFF;
+    background-color: #66CCFF;
     box-shadow: 5px 5px 10px #A8A8A8;
 }
-#title_left select {
+#left select {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
     margin: auto;
-    background-color: #00Bfff;
+    background-color: #66CCFF;
     border: 0; 
     color:#fff;
+}
+
+#middle {
+    width:0px;
+    height:0px;
+    border-width:30px;
+    border-style:solid;
+    border-color:#0099FF #0099FF #66CCFF #66CCFF ;
 }
