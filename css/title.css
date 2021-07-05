@@ -20,9 +20,12 @@
 }
 
 #middle {
-    width:0px;
-    height:0px;
-    border-width:30px;
-    border-style:solid;
-    border-color:#0099FF #0099FF #66CCFF #66CCFF ;
+    position: absolute;
+    top: 10px;
+    left: 160px;
+    width: 0px;
+    height: 0px;
+    border-width: 15px;
+    border-style: solid;
+    border-color: #0099FF #0099FF #66CCFF #66CCFF ;
 }
