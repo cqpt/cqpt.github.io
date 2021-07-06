@@ -9,8 +9,8 @@ body {
     position: absolute;
     top: 10px;
     left: 10px;
-    width: 300px;
-    height: 60px;
+    width: 150px;
+    height: 30px;
     background-color: #66CCFF;
     box-shadow: 5px 5px 10px #A8A8A8;
 }
@@ -24,16 +24,16 @@ body {
     margin: auto;
     background-color: #66CCFF;
     color: #fff;
-    font-size: 30px;
+    font-size: 15px;
 }
 
 #middle {
     position: absolute;
     top: 10px;
-    left: 310px;
+    left: 160px;
     width: 0px;
     height: 0px;
-    border-width: 30px;
+    border-width: 15px;
     border-style: solid;
     border-color: #0099FF #0099FF #66CCFF #66CCFF ;
     box-shadow: 5px 5px 10px #A8A8A8;
@@ -42,33 +42,33 @@ body {
 #right {
     position: absolute;
     top: 10px;
-    left: 370px;
-    width: 1080px;
-    height: 60px;
+    left: 190px;
+    width: 540px;
+    height: 30px;
     background-color: #0099FF;
     box-shadow: 5px 5px 10px #A8A8A8;
 }
 
 video {
     position: absolute;
-    top: 90px;
+    top: 50px;
     left: 10px;
-    width: 360px;
-    height: 220px;
+    width: 180px;
+    height: 110px;
 }
 
 #dowm {
     position: absolute;
-    top: 310px;
+    top: 220px;
     left: 10px;
-    width: 360px;
-    height: 60px;
+    width: 180px;
+    height: 30px;
     text-align: center;
     background-color: #FFFFFF;
 }
 
 #dowm span {
-    font-size: 24px;
-    line-height:60px;
+    font-size: 12px;
+    line-height:30px;
     text-align: center;
 }
