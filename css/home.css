@@ -57,7 +57,7 @@ video {
     height: 220px;
 }
 
-#down {
+#dowm {
     position: absolute;
     top: 310px;
     left: 10px;
@@ -66,7 +66,7 @@ video {
     background-color: #FFFFFF;
 }
 
-#down span {
+#dowm span {
     position: absolute;
     top: 0;
     left: 0;
