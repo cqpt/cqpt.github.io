@@ -56,3 +56,12 @@ video {
     width: 360px;
     height: 220px;
 }
+
+#down {
+    position: absolute;
+    top: 310px;
+    left: 10px;
+    width: 360px;
+    height: 60px;
+    background-color: #FFFFFF;
+}
